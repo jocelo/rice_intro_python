@@ -1,6 +1,9 @@
 # Introduction to Python, RICE University
 Repo for storing all projects from Courseras's Introduction to Python (https://www.coursera.org/course/interactivepython1)
 
+## Mini Projects
+- Week 0: [we want a shrubbery](http://www.codeskulptor.org/#user40_61y3M2qdrs_0.py)
+
 ## Practice Excercises
 
 #### Week 0a
