@@ -1,9 +1,9 @@
 # Introduction to Python, RICE University
 Repo for storing all projects from Courseras's Introduction to Python (https://www.coursera.org/course/interactivepython1)
 
-Will hold information for each week of the course
+## Practice Excercises
 
-### Week 0a
+#### Week 0a
 - Excercise 1 [Miles to feets](http://www.codeskulptor.org/#user40_ua3SGjEnM8_0.py)
 - Excercise 2 [Hours to seconds](http://www.codeskulptor.org/#user40_ao0D2P6CHI_0.py)
 - Excercise 3 [Perimeter of rectangle](http://www.codeskulptor.org/#user40_p4y8hR1fFQ_0.py)
@@ -15,4 +15,4 @@ Will hold information for each week of the course
 - Excercise 9 [Name and age](http://www.codeskulptor.org/#user40_7XN6nHtgNh_0.py)
 - Excercise 10 [Point distance](http://www.codeskulptor.org/#user40_ya1gp8Y2xo_0.py)
 
-### Week 0b
+#### Week 0b
