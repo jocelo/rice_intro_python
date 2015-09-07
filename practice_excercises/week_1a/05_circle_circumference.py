@@ -1,19 +1,9 @@
-# Compute the circumference of a circle, given the length of its radius.
-
-###################################################
-# Circle circumference formula
-# Student should enter function on the next lines.
-
 import math
 
 def circle_circumference(radius):
     pi = math.pi
     circum = 2 * pi * radius
     return circum
-
-###################################################
-# Tests
-# Student should not change this code.
 
 def test(radius):
     print "A circle with a radius of " + str(radius),
@@ -23,12 +13,3 @@ def test(radius):
 test(8)
 test(3)
 test(12.9)
-
-
-###################################################
-# Expected output
-# Student should look at the following comments and compare to printed output.
-
-#A circle with a radius of 8 inches has a circumference of 50.2654824574 inches.
-#A circle with a radius of 3 inches has a circumference of 18.8495559215 inches.
-#A circle with a radius of 12.9 inches has a circumference of 81.0530904626 inches.

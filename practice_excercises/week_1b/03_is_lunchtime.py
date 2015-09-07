@@ -1,15 +1,5 @@
-# Compute whether the given time is lunchtime.
-
-###################################################
-# Is lunchtime formula
-# Student should enter function on the next lines.
-
 def is_lunchtime(hour, is_am):
     return (is_am and 11//hour) or (not(is_am) and hour//12)
-
-###################################################
-# Tests
-# Student should not change this code.
 
 def test(hour, is_am):
     """Tests the is_lunchtime function."""
@@ -28,13 +18,3 @@ test(12, True)
 test(11, False)
 test(12, False)
 test(10, False)
-
-###################################################
-# Expected output
-# Student should look at the following comments and compare to printed output.
-
-#11 AM is lunchtime.
-#12 AM is not lunchtime.
-#11 PM is not lunchtime.
-#12 PM is lunchtime.
-#10 PM is not lunchtime.
