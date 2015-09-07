@@ -58,3 +58,4 @@ Repo for saving all projects from Courseras's Introduction to Python (https://ww
 - Excercise 9 [Pig latin](http://www.codeskulptor.org/#user40_1oZOk92v4z_0.py)
 - Challenge [Smaller root](http://www.codeskulptor.org/#user40_YUcmb8Dw5R_3.py)
 
+- Practice mini-project - [Mystical Octosphere](http://www.codeskulptor.org/#user40_KKMha1qFwf_0.py)
