@@ -4,6 +4,7 @@ Repo for saving all projects from Courseras's Introduction to Python (https://ww
 ## Mini Projects
 - Week 0: [we want a shrubbery](http://www.codeskulptor.org/#user40_61y3M2qdrs_0.py)
 - Week 1:[rock-paper-scissors-lizard-Spock](http://www.codeskulptor.org/#user40_JrbDYd1kV3ZqGG0.py)
+- Week 2:[Guess the number](http://www.codeskulptor.org/#user40_sZtnFLVC1hTsMpp.py)
 
 ## Practice Excercises
 
@@ -59,3 +60,33 @@ Repo for saving all projects from Courseras's Introduction to Python (https://ww
 - Excercise 9 [Pig latin](http://www.codeskulptor.org/#user40_1oZOk92v4z_0.py)
 - Challenge [Smaller root](http://www.codeskulptor.org/#user40_YUcmb8Dw5R_3.py)
 - Practice mini-project - [Mystical Octosphere](http://www.codeskulptor.org/#user40_KKMha1qFwf_0.py)
+
+#### Week 2a: Interactive applications in Python
+- Excercise 1 [Print goodbye](http://www.codeskulptor.org/#user40_5gD1UITN9j_1.py)
+- Excercise 2 [Set goodbye](http://www.codeskulptor.org/#user40_1QZyKolrOO_0.py)
+- Challenge [Counters](http://www.codeskulptor.org/#user40_v9CyHdtxau_0.py)
+- Excercise 4 [My first frame](http://www.codeskulptor.org/#user40_VMmE0inrde_0.py)
+- Excercise 5 [My second frame](http://www.codeskulptor.org/#user40_PwiFIVHpxD_0.py)
+
+#### Week 2b: Buttons and input fields
+- Excercise 1 [Hello and goodbye](http://www.codeskulptor.org/#user40_eNnHu1LSNeIAJ6T.py)
+- Excercise 2 [Register buttons](http://www.codeskulptor.org/#user40_auS7cmCgON_0.py)
+- Challenge [Operations](http://www.codeskulptor.org/#user40_JoQC179YoF_0.py)
+- Excercise 4 [Echo input](http://www.codeskulptor.org/#user40_eojfCGRwVf_0.py)
+- Excercise 5 [Pig latin](http://www.codeskulptor.org/#user40_Y59zOrxV9l_0.py)
+- Challenge [RPSLS](http://www.codeskulptor.org/#user40_dg599n47Nf_2.py)
+- Practice mini-project: [Mystical Octosphere reloaded](http://www.codeskulptor.org/#user40_vRyoTirBz3_0.py)
+
+#### Week 3a: Drawing
+- Excercise 1 [It works]()
+- Excercise 2 [This is easy]()
+- Excercise 3 [Draw X]()
+- Excercise 4 [Format time]()
+- Challenge [Ball radius]()
+
+#### Week 3b: Timers
+- Excercise 1 [Counter]()
+- Excercise 2 [Counter button]()
+- Excercise 3 [Toggle background]()
+- Excercise 4 [Expanding circle]()
+- Challenge [Reflex test]()
