@@ -78,11 +78,11 @@ Repo for saving all projects from Courseras's Introduction to Python (https://ww
 - Practice mini-project: [Mystical Octosphere reloaded](http://www.codeskulptor.org/#user40_vRyoTirBz3_0.py)
 
 #### Week 3a: Drawing
-- Excercise 1 [It works]()
-- Excercise 2 [This is easy]()
-- Excercise 3 [Draw X]()
-- Excercise 4 [Format time]()
-- Challenge [Ball radius]()
+- Excercise 1 [It works](http://www.codeskulptor.org/#user40_aAlzoX188d_0.py)
+- Excercise 2 [This is easy](http://www.codeskulptor.org/#user40_Kmyrjj9EY6_0.py)
+- Excercise 3 [Draw X](http://www.codeskulptor.org/#user40_itL2owMWYa_0.py)
+- Excercise 4 [Format time](http://www.codeskulptor.org/#user40_aIvtgvWl0I_0.py)
+- Challenge [Ball radius](http://www.codeskulptor.org/#user40_vnoP2oohlj_0.py)
 
 #### Week 3b: Timers
 - Excercise 1 [Counter]()
