@@ -1,10 +1,7 @@
 # Introduction to Python, RICE University
 Repo for saving all projects from Courseras's Introduction to Python (https://www.coursera.org/course/interactivepython1)
 
-## Mini Projects
-- Week 0: [we want a shrubbery]()
-- Week 1:[rock-paper-scissors-lizard-Spock]()
-- Week 2:[Guess the number]()
+All code belongs to Rice University and
 
 ## Practice Excercises
 
