@@ -2,9 +2,9 @@
 Repo for saving all projects from Courseras's Introduction to Python (https://www.coursera.org/course/interactivepython1)
 
 ## Mini Projects
-- Week 0: [we want a shrubbery](http://www.codeskulptor.org/#user40_61y3M2qdrs_0.py)
-- Week 1:[rock-paper-scissors-lizard-Spock](http://www.codeskulptor.org/#user40_JrbDYd1kV3ZqGG0.py)
-- Week 2:[Guess the number](http://www.codeskulptor.org/#user40_sZtnFLVC1hTsMpp.py)
+- Week 0: [we want a shrubbery]()
+- Week 1:[rock-paper-scissors-lizard-Spock]()
+- Week 2:[Guess the number]()
 
 ## Practice Excercises
 
