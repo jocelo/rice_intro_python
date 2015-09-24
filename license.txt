@@ -5,3 +5,25 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Honor code
+
+Submit original work
+Completing the mini-projects is the main challenge in this class. While these assignments provide a program template as a starting point, the projects usually require you to write between 50-150 lines of original code. To receive the full educational benefit of this task, you need to be the one who writes this code. In writing this code, you can seek help from the class forums and the Code Clinic as well as friends and acquaintances outside the class. However, this help should consist only of discussions about the mini-project and coding issues that arise in implementing the mini-project.
+
+In previous sessions, we have observed instances where submitted mini-projects contain large portions of this code copied from either the web or a friend's assignment. This copying violates the class Honor Code To discourage this behavior, we plan to take a more active role in assessing the originality of the code submitted for each mini-project. If we detect that a large portion of your code (beyond the program template) is not original (i.e., copied), we will contact you and you may be subject to expulsion from the class. To help ensure that the code that you submit is original, we ask that you do not search for or view solutions to the mini-projects on the web.
+
+Note that you are allowed to submit to both the regular version and the late version of a mini-project. Participating in peer review for both versions is welcomed and encouraged. If you submit to the regular version, please be sure to peer assess for this submission even if you intend to submit to the late version. You are welcome to examine your peers' submissions, but please do not submit a copy of a peer's submission to the late version of the assignment. This behavior violates the Honor Code.
+
+During peer evaluation in previous sessions, some class participants have tried to compare their peer's submissions to solutions found on the web. While we understand the rationale behind this activity, we ask that you simply assess your peer's work under the assumption that it is original and leave the issue of assessing the originality of an assignment to the course staff. This approach helps ensure that everyone's work is treated in a fair and uniform manner. If you feel that there is an Honor Code issue concerning your peer's submitted work (or any other Honor Code-related issue), please send email to iipphonorcode@online.rice.edu. We will investigate the situation and handle as appropriate.
+
+General guidelines
+We strongly encourage you to discuss both the generalities and specifics of your mini-project on the class forum (as well as in lab for Rice students). Our basic rule for separating acceptable from unacceptable collaboration is that everyone should write their own code. Discussing issues/problems with your code is fine. Copying code is not. To be more specific, here are some DOs and DON'Ts for working with others in this class.
+
+DON'T copy code from outside sources (except for the project template provided by us) when developing your mini-project.
+DON'T submit a copy of an assignment that you peer reviewed during the regular submission as your solution to the assignment when submitting late.
+DON'T privately share copies of the code for your mini-project with your classmates or friends.
+DO feel free to discuss issues/problems related to your mini-project with your classmates in person or on the class forums.
+DON'T post working code (or links to working code) from your mini-project to the class forum. Posting such information robs your classmates of the opportunity to complete their mini-project on their own.
+DO feel free to post short snippets of non-working code (up to 10 lines) to the class forum when seeking help in debugging your code.
+DO feel free to resubmit the same mini-project that you personally wrote and submitted in a previous session if you are retaking the class. (Note that your Coursera email login must be the same for both sessions.)
