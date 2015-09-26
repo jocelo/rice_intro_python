@@ -1,8 +1,6 @@
 # Introduction to Python, RICE University
 Repo for saving all projects from Courseras's Introduction to Python (https://www.coursera.org/course/interactivepython1)
 
-All code belongs to Rice University and
-
 ## Practice Excercises
 
 #### Week 0a: Expressions
@@ -82,7 +80,7 @@ All code belongs to Rice University and
 - Challenge [Ball radius](http://www.codeskulptor.org/#user40_vnoP2oohlj_0.py)
 
 #### Week 3b: Timers
-- Excercise 1 [Counter]()
+- Excercise 1 [Counter](http://www.codeskulptor.org/#user40_7OXeLoUmR5_0.py)
 - Excercise 2 [Counter button]()
 - Excercise 3 [Toggle background]()
 - Excercise 4 [Expanding circle]()
