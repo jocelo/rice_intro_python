@@ -81,7 +81,7 @@ Repo for saving all projects from Courseras's Introduction to Python (https://ww
 
 #### Week 3b: Timers
 - Excercise 1 [Counter](http://www.codeskulptor.org/#user40_7OXeLoUmR5_0.py)
-- Excercise 2 [Counter button]()
-- Excercise 3 [Toggle background]()
-- Excercise 4 [Expanding circle]()
-- Challenge [Reflex test]()
+- Excercise 2 [Counter button](http://www.codeskulptor.org/#user40_AfKmuNQyMH_0.py)
+- Excercise 3 [Toggle background](http://www.codeskulptor.org/#user40_ffYQljE0Y0_0.py)
+- Excercise 4 [Expanding circle](http://www.codeskulptor.org/#user40_AAB41pdNSi_0.py)
+- Challenge [Reflex test](http://www.codeskulptor.org/#user40_1KHbiagkCi_0.py)
