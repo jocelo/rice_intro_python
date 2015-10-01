@@ -85,3 +85,12 @@ Repo for saving all projects from Courseras's Introduction to Python (https://ww
 - Excercise 3 [Toggle background](http://www.codeskulptor.org/#user40_ffYQljE0Y0_0.py)
 - Excercise 4 [Expanding circle](http://www.codeskulptor.org/#user40_AAB41pdNSi_0.py)
 - Challenge [Reflex test](http://www.codeskulptor.org/#user40_1KHbiagkCi_0.py)
+
+#### Week 4a: Lists
+- Excercise 1 [Primes List](http://www.codeskulptor.org/#user40_XR2H20LM1o_0.py)
+- Excercise 2 [List Reference](http://www.codeskulptor.org/#user40_1cVw7ndcD1_0.py)
+- Excercise 3 [List copy](http://www.codeskulptor.org/#user40_0BtjM1JMRN_0.py)
+- Excercise 4 [Vector addition](http://www.codeskulptor.org/#user40_GiXzEpFTzO_0.py)
+- Excercise 5 [Challenge](http://www.codeskulptor.org/#user40_bnOXWNtJ0N_0.py)
+
+#### Week 4b:
