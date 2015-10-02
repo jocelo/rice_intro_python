@@ -94,7 +94,7 @@ Repo for saving all projects from Courseras's Introduction to Python (https://ww
 - Excercise 5 [Challenge](http://www.codeskulptor.org/#user40_bnOXWNtJ0N_0.py)
 
 #### Week 4b: Keyboard
-- Excercise 1 [Keyboard debugging]()
-- Excercise 2 [Ball radius]()
-- Excercise 3 [Space bar]()
-- Excercise 4 [Challenge]()
+- Excercise 1 [Keyboard debugging](http://www.codeskulptor.org/#user40_LPXMzYKS2a_0.py)
+- Excercise 2 [Ball radius](http://www.codeskulptor.org/#user40_VI0du9TyPb_0.py)
+- Excercise 3 [Space bar](http://www.codeskulptor.org/#user40_fow7yoki6s_0.py)
+- Excercise 4 [Challenge](http://www.codeskulptor.org/#user40_iJrn9uk6JD_1.py)
