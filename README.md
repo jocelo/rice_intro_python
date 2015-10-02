@@ -93,4 +93,8 @@ Repo for saving all projects from Courseras's Introduction to Python (https://ww
 - Excercise 4 [Vector addition](http://www.codeskulptor.org/#user40_GiXzEpFTzO_0.py)
 - Excercise 5 [Challenge](http://www.codeskulptor.org/#user40_bnOXWNtJ0N_0.py)
 
-#### Week 4b:
+#### Week 4b: Keyboard
+- Excercise 1 [Keyboard debugging]()
+- Excercise 2 [Ball radius]()
+- Excercise 3 [Space bar]()
+- Excercise 4 [Challenge]()
