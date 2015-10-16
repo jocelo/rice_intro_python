@@ -110,8 +110,8 @@ Repo for saving all projects from Courseras's Introduction to Python (https://ww
 #### Week 5a: Dictionaries and images
 - Excercise 1 [Day to number](http://www.codeskulptor.org/#user40_JgWRYPLFRU_0.py)
 - Excercise 2 [Name lookup](http://www.codeskulptor.org/#user40_4boey5M9Nq_0.py)
-- Excercise 3 [Debug image]()
-- Excercise 4 [Image click template]()
-- Challenge [Image processing]()
+- Excercise 3 [Debug image](http://www.codeskulptor.org/#user40_HgN8umDMay_0.py)
+- Excercise 4 [Image click template](http://www.codeskulptor.org/#user40_rPITj6CBMn_0.py)
+- Challenge [Image from scratch](http://www.codeskulptor.org/#user40_0S7eYZSZq9_0.py)
 
 
