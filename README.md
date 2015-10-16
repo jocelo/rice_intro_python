@@ -97,4 +97,21 @@ Repo for saving all projects from Courseras's Introduction to Python (https://ww
 - Excercise 1 [Keyboard debugging](http://www.codeskulptor.org/#user40_LPXMzYKS2a_0.py)
 - Excercise 2 [Ball radius](http://www.codeskulptor.org/#user40_VI0du9TyPb_0.py)
 - Excercise 3 [Space bar](http://www.codeskulptor.org/#user40_fow7yoki6s_0.py)
-- Excercise 4 [Challenge](http://www.codeskulptor.org/#user40_iJrn9uk6JD_1.py)
+- Excercise 4 [Challenge](http://www.codeskulptor.org/#user40_iJrn9uk6JD_2.py)
+
+#### Week 5a: Mouse and list methods
+- Excercise 1 [Mouse echo](http://www.codeskulptor.org/#user40_AJ3FMS3Rsb_0.py)
+- Excercise 2 [Circle click](http://www.codeskulptor.org/#user40_m6uKQn9Hym_0.py)
+- Excercise 3 [Day lookup](http://www.codeskulptor.org/#user40_L137cxudIW_0.py)
+- Excercise 4 [String list join](http://www.codeskulptor.org/#user40_ddjRt1qIbT_0.py)
+- Excercise 5 [Ball grid](http://www.codeskulptor.org/#user40_7F8bfZ9uXd_0.py)
+- Challenge [Polyline template](http://www.codeskulptor.org/#user40_rplar9pCyS_3.py)
+
+#### Week 5a: Dictionaries and images
+- Excercise 1 [Day to number](http://www.codeskulptor.org/#user40_JgWRYPLFRU_0.py)
+- Excercise 2 [Name lookup](http://www.codeskulptor.org/#user40_4boey5M9Nq_0.py)
+- Excercise 3 [Debug image]()
+- Excercise 4 [Image click template]()
+- Challenge [Image processing]()
+
+
